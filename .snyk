@@ -6,3 +6,6 @@ patch:
   'npm:tough-cookie:20170905':
     - youtube-api > googleapis > request > tough-cookie:
         patched: '2018-03-20T22:26:00.711Z'
+  'npm:tough-cookie:20160722':
+    - youtube-api > googleapis > request > tough-cookie:
+        patched: '2018-03-20T22:54:43.381Z'
